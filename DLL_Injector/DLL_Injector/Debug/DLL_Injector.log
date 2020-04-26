@@ -1,0 +1,5 @@
+﻿  DLL_Injector.cpp
+\\Mac\Home\Desktop\github\wechat\Wechat_Inject_Study\DLL_Injector\DLL_Injector\DLL_Injector.cpp(13,1): error C2144: 语法错误:“int”的前面应有“;”
+\\Mac\Home\Desktop\github\wechat\Wechat_Inject_Study\DLL_Injector\DLL_Injector\DLL_Injector.cpp(18,5): error C2664: “INT_PTR DialogBoxParamA(HINSTANCE,LPCSTR,HWND,DLGPROC,LPARAM)”: 无法将参数 4 从“INT_PTR (__cdecl *)(HWND,UINT,WPARAM,LPARAM)”转换为“DLGPROC”
+\\Mac\Home\Desktop\github\wechat\Wechat_Inject_Study\DLL_Injector\DLL_Injector\DLL_Injector.cpp(18,5): message : 该强制转换要求 reinterpret_cast、C 样式强制转换或函数类型强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(5059,1): message : 参见“DialogBoxParamA”的声明
