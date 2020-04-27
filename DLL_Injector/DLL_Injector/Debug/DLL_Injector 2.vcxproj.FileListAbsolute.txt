@@ -1,0 +1,4 @@
+\\Mac\Home\Desktop\github\wechat\Wechat_Inject_Study\DLL_Injector\DLL_Injector 2\Debug\DLL_Injector 2.exe
+\\Mac\Home\Desktop\github\wechat\Wechat_Inject_Study\DLL_Injector\DLL_Injector 2\Debug\DLL_Injector 2.pdb
+\\Mac\Home\Desktop\github\wechat\Wechat_Inject_Study\DLL_Injector\DLL_Injector\Debug\DLL_Injector 2.exe
+\\Mac\Home\Desktop\github\wechat\Wechat_Inject_Study\DLL_Injector\DLL_Injector\Debug\DLL_Injector 2.pdb

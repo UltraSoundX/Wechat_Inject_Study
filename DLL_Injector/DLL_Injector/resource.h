@@ -1,11 +1,11 @@
 //{{NO_DEPENDENCIES}}
 // Microsoft Visual C++ 生成的包含文件。
-// 供 DLL_Injector.rc 使用
+// 供 DLL_Injector 2.rc 使用
 //
-#define Injector                        9
+#define ID_MAIN                         9
 #define IDD_DIALOG1                     101
-#define Inject                          1001
-#define Uninstall                       1002
+#define INJECT_DLL                      1001
+#define UN_DLL                          1002
 
 // Next default values for new objects
 // 

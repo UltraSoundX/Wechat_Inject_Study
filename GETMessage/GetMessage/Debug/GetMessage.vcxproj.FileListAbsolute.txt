@@ -1,0 +1,2 @@
+\\Mac\Home\Desktop\github\wechat\Wechat_Inject_Study\GETMessage\GetMessage\Debug\GetMessage.dll
+\\Mac\Home\Desktop\github\wechat\Wechat_Inject_Study\GETMessage\GetMessage\Debug\GetMessage.pdb
