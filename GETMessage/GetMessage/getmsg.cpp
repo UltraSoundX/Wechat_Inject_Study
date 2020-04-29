@@ -25,11 +25,11 @@ VOID ReadMemory(HWND hWnd) {
 	SetDlgItemText(hWnd, Phone, Phone_Get);
 
 	char WXID_Get[0x100] = { 0 };
-	sprintf_s(WXID_Get, "%s", WeChatWin + 0x16B4A10);
+	sprintf_s(WXID_Get, "%s", (WeChatWin + 0x16B4A10));
 	SetDlgItemText(hWnd, ID, WXID_Get);
 
 	char Photo_Get[0x100] = { 0 };
-	DWORD pPic = WeChatWin + 0x16B4B74;//Pointer 1
+	DWORD pPic = WeChatWin + 0x16CE308;//Pointer 1
 	sprintf_s(Photo_Get, "%s", *((DWORD *)pPic));
 	SetDlgItemText(hWnd, Photo, Photo_Get);
 
